@@ -37,3 +37,45 @@ no dispositivo do usuário e, opcionalmente, no iCloud pessoal do usuário via
 sincronização padrão da Apple. Nada disso é acessível ao desenvolvedor.
 
 Contato: fabio.gimenez.eleuterio@gmail.com
+
+---
+
+# English
+
+Vitrine is a local-first iOS app for watch collectors. Your data lives on your
+device and, if you enable it, in your own iCloud.
+
+## Need help?
+
+**Open an issue in this repository** (*Issues* tab → *New issue*) describing the
+problem or suggestion — this is Vitrine's official support channel.
+You can also write to fabio.gimenez.eleuterio@gmail.com.
+
+## FAQ
+
+**Where is my data stored?**
+On your device (local SQLite database) and, with iCloud enabled, in the app's
+private container in YOUR iCloud. No data passes through our servers — we have none.
+
+**How do I sync between devices?**
+Install Vitrine on your devices using the same iCloud account. Sync runs when
+the app opens, or via the "Sincronizar agora" button on the Rotação tab.
+
+**How do I back up?**
+Besides iCloud, you can export your collection as CSV: Rotação tab → Dados → Exportar CSV.
+
+**I deleted the app. Is everything lost?**
+With iCloud enabled, reinstall and sync: your collection and photos come back.
+
+**A 10-watch limit?**
+The free version keeps up to 10 pieces. Support for larger collections is coming soon.
+
+## Privacy Policy
+
+Vitrine does not collect, transmit, or share any personal data.
+There are no accounts, no analytics, no ads, and no trackers.
+All data (watches, photos, wear logs, wishlist) remains on the user's device
+and, optionally, in the user's personal iCloud via Apple's standard sync.
+None of it is accessible to the developer.
+
+Contact: fabio.gimenez.eleuterio@gmail.com
