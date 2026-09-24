@@ -1,3 +1,5 @@
+> **Novo endereço / New address:** https://apps.eleutherius.io/watches/ — this page now redirects there.
+
 # Vitrine: Coleção de Relógios — Suporte
 
 Vitrine é um app iOS para colecionadores de relógios. Local-first: seus dados
